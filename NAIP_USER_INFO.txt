@@ -1,0 +1,2 @@
+Enter 'Year' for NAIP download (ex: 2020): 
+Enter 'State' for NAIP download (ex: va): 
